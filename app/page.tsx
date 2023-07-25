@@ -12,7 +12,7 @@ export default async function Index() {
 
   return (
     <div className="w-full h-full flex flex-col items-center justify-between">
-      <nav className="w-full flex justify-center border-b h-16">
+      <nav className="w-full flex justify-center border-b border-b-neutral-300 h-16">
         <div className="w-full max-w-4xl flex justify-between items-center p-3 text-sm ">
           <div />
           <div>
@@ -35,7 +35,7 @@ export default async function Index() {
 
       <div className="animate-in flex flex-col gap-14 opacity-0 max-w-4xl px-3 py-16 lg:py-24 ">
         <div className="flex flex-col items-center">
-          <h1 className="text-5xl font-semibold mb-4">RX Fill Collective</h1>
+          <h1 className="text-5xl font-semibold mb-4 text-center">RX Fill Collective</h1>
           <p className="mx-auto max-w-xl text-center">
             We can do so much more when we work together...
           </p>
@@ -56,7 +56,7 @@ export default async function Index() {
         </div>
       </div>
 
-      <div className="text-center text-xs  py-16">
+      <div className="text-center text-xs py-8 lg:py-12">
         <p className="mb-2">
           Created with ❤️ by{' '}
           <Link
