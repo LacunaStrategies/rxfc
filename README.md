@@ -16,4 +16,4 @@ This application is a work in progress, following the mantra of #gtfol, and feat
 
 ## Build Details
 
-Created with ❤️ by [https://www.lacuna-strategies.com](Lacuna Strategies LLC.], this application is built with [https://nextjs.org/](Next.js), [https://tailwindcss.com/](TailwindCSS), and [https://supabase.com/](Supabase) and is hosted on [https://vercel.com/](Vercel).
+Created with ❤️ by [https://www.lacuna-strategies.com](Lacuna Strategies LLC.], this application is powered by [https://nextjs.org/](Next.js), [https://tailwindcss.com/](TailwindCSS), and [https://supabase.com/](Supabase) and is hosted on [https://vercel.com/](Vercel).
