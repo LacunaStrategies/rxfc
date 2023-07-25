@@ -17,7 +17,7 @@ export default function SignIn() {
       email,
       password,
     })
-    router.push('/')
+    router.push('/home')
     router.refresh()
   }
 
